@@ -1,0 +1,4 @@
+# Shopwise — Shop smarter. Spend less
+
+## Your groceries. Better prices. Real savings.
+Compare grocery prices across nearby stores, build shopping lists, see potential savings, and get directions to the stores you choose.
