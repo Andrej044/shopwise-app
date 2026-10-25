@@ -1,0 +1,18 @@
+GIMP Palette
+Name: Shopwise working palette v1
+Columns: 5
+# Proposed design swatches, 24 October 2026
+ 18  99  68 Brand primary
+ 11  73  50 Brand pressed
+230 243 235 Brand soft
+ 19  35  28 Text primary
+ 82  99  90 Text secondary
+247 249 247 Surface canvas
+255 255 255 Surface card
+217 227 220 Border subtle
+115 134 122 Border control
+128  85   0 Warning text
+255 244 214 Warning surface
+180  35  24 Error text
+255 241 240 Error surface
+ 24  90 219 Focus

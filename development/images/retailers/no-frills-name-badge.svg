@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="112" viewBox="0 0 320 112" role="img" aria-labelledby="title desc">
+<title id="title">No Frills retailer name badge</title>
+<desc id="desc">Shopwise interface label with a generic store symbol. Plain text identification, not an official retailer logo.</desc>
+<rect x="1" y="1" width="318" height="110" rx="18" fill="#FFFFFF" stroke="#D9E3DC" stroke-width="2"/>
+<rect x="20" y="28" width="56" height="56" rx="14" fill="#E6F3EB"/>
+<g transform="translate(36 44)"><path d="M3 9 5 3h14l2 6M3 9v2a3 3 0 0 0 5 2 3 3 0 0 0 4 0 3 3 0 0 0 4 0 3 3 0 0 0 5-2V9M5 14v7h14v-7M9 21v-5h6v5" fill="none" stroke="#126344" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="94" y="65" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="600">No Frills</text>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1040" viewBox="0 0 1200 1040" role="img" aria-labelledby="title desc">
+<title id="title">Shopwise Toronto retailer design</title>
+<desc id="desc">Static design board showing five retailer options, product comparison with unavailable prices, and an unpriced shopping-list item assigned to Metro. This is a visual layout only.</desc>
+<rect width="1200" height="1040" fill="#F7F9F7"/>
+<text x="40" y="56" fill="#126344" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Shopwise</text>
+<text x="40" y="94" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Five Toronto grocery retailers</text>
+<text x="40" y="123" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="16">Choose product → compare stores → choose store → add to list</text>
+<rect x="40" y="144" width="1120" height="40" rx="10" fill="#FFF4D6"/>
+<text x="56" y="170" fill="#805500" font-family="Inter, Arial, sans-serif" font-size="14">STATIC DESIGN • Generic name badges, not retailer logos • No live prices or verified branch data</text>
+<rect x="40" y="210" width="636" height="786" rx="22" fill="#FFFFFF" stroke="#D9E3DC"/>
+<text x="56" y="249" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Compare this product</text>
+<text x="56" y="279" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">Product name · brand · pack size</text>
+<text x="56" y="305" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Select a store. Lowest-price labels require comparable current offers.</text>
+<g>
+<rect x="56" y="342" width="604" height="77" rx="14" fill="#FFFFFF" stroke="#D9E3DC" stroke-width="1"/>
+<g transform="translate(74 368)"><path d="M3 9 5 3h14l2 6M3 9v2a3 3 0 0 0 5 2 3 3 0 0 0 4 0 3 3 0 0 0 4 0 3 3 0 0 0 5-2V9M5 14v7h14v-7M9 21v-5h6v5" fill="none" stroke="#126344" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="115" y="372" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="600">No Frills</text>
+<text x="115" y="396" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="13">Branch selected before adding</text>
+<text x="420" y="373" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Price unavailable</text>
+<text x="420" y="396" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="12">No live feed connected</text>
+<circle cx="627" cy="380" r="11" fill="#FFFFFF" stroke="#73867A" stroke-width="2"/>
+
+</g>
+<g>
+<rect x="56" y="433" width="604" height="77" rx="14" fill="#E6F3EB" stroke="#126344" stroke-width="2"/>
+<g transform="translate(74 459)"><path d="M3 9 5 3h14l2 6M3 9v2a3 3 0 0 0 5 2 3 3 0 0 0 4 0 3 3 0 0 0 4 0 3 3 0 0 0 5-2V9M5 14v7h14v-7M9 21v-5h6v5" fill="none" stroke="#126344" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="115" y="463" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="600">Metro</text>
+<text x="115" y="487" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="13">Branch selected before adding</text>
+<text x="420" y="464" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Price unavailable</text>
+<text x="420" y="487" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="12">No live feed connected</text>
+<circle cx="627" cy="471" r="11" fill="#FFFFFF" stroke="#126344" stroke-width="2"/>
+<circle cx="627" cy="471" r="6" fill="#126344"/>
+</g>
+<g>
+<rect x="56" y="524" width="604" height="77" rx="14" fill="#FFFFFF" stroke="#D9E3DC" stroke-width="1"/>
+<g transform="translate(74 550)"><path d="M3 9 5 3h14l2 6M3 9v2a3 3 0 0 0 5 2 3 3 0 0 0 4 0 3 3 0 0 0 4 0 3 3 0 0 0 5-2V9M5 14v7h14v-7M9 21v-5h6v5" fill="none" stroke="#126344" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="115" y="554" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="600">Costco</text>
+<text x="115" y="578" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="13">Warehouse and membership conditions</text>
+<text x="420" y="555" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Price unavailable</text>
+<text x="420" y="578" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="12">No live feed connected</text>
+<circle cx="627" cy="562" r="11" fill="#FFFFFF" stroke="#73867A" stroke-width="2"/>
+
+</g>
+<g>
+<rect x="56" y="615" width="604" height="77" rx="14" fill="#FFFFFF" stroke="#D9E3DC" stroke-width="1"/>
+<g transform="translate(74 641)"><path d="M3 9 5 3h14l2 6M3 9v2a3 3 0 0 0 5 2 3 3 0 0 0 4 0 3 3 0 0 0 4 0 3 3 0 0 0 5-2V9M5 14v7h14v-7M9 21v-5h6v5" fill="none" stroke="#126344" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="115" y="645" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="600">Loblaws</text>
+<text x="115" y="669" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="13">Branch selected before adding</text>
+<text x="420" y="646" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Price unavailable</text>
+<text x="420" y="669" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="12">No live feed connected</text>
+<circle cx="627" cy="653" r="11" fill="#FFFFFF" stroke="#73867A" stroke-width="2"/>
+
+</g>
+<g>
+<rect x="56" y="706" width="604" height="77" rx="14" fill="#FFFFFF" stroke="#D9E3DC" stroke-width="1"/>
+<g transform="translate(74 732)"><path d="M3 9 5 3h14l2 6M3 9v2a3 3 0 0 0 5 2 3 3 0 0 0 4 0 3 3 0 0 0 4 0 3 3 0 0 0 5-2V9M5 14v7h14v-7M9 21v-5h6v5" fill="none" stroke="#126344" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="115" y="736" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="600">Walmart</text>
+<text x="115" y="760" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="13">Branch selected before adding</text>
+<text x="420" y="737" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Price unavailable</text>
+<text x="420" y="760" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="12">No live feed connected</text>
+<circle cx="627" cy="744" r="11" fill="#FFFFFF" stroke="#73867A" stroke-width="2"/>
+
+</g>
+<rect x="56" y="817" width="604" height="88" rx="14" fill="#F7F9F7"/>
+<text x="72" y="846" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">Chosen store: Metro</text>
+<text x="72" y="874" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Choose a real branch and eligible offer before adding a priced item.</text>
+<rect x="56" y="922" width="604" height="50" rx="12" fill="#126344"/>
+<text x="358" y="954" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Add unpriced reminder from Metro</text>
+<text x="740" y="231" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Home retailer selectors</text>
+<rect x="740" y="252" width="189" height="42" rx="12" fill="#FFFFFF" stroke="#D9E3DC"/><text x="756" y="279" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">No Frills</text>
+<rect x="943" y="252" width="189" height="42" rx="12" fill="#FFFFFF" stroke="#D9E3DC"/><text x="959" y="279" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">Metro</text>
+<rect x="740" y="308" width="189" height="42" rx="12" fill="#FFFFFF" stroke="#D9E3DC"/><text x="756" y="335" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">Costco</text>
+<rect x="943" y="308" width="189" height="42" rx="12" fill="#FFFFFF" stroke="#D9E3DC"/><text x="959" y="335" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">Loblaws</text>
+<rect x="740" y="364" width="189" height="42" rx="12" fill="#FFFFFF" stroke="#D9E3DC"/><text x="756" y="391" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">Walmart</text>
+<rect x="724" y="466" width="436" height="288" rx="22" fill="#FFFFFF" stroke="#D9E3DC"/>
+<text x="748" y="506" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700">My shopping list</text>
+<rect x="748" y="526" width="388" height="49" rx="12" fill="#E6F3EB"/>
+<text x="764" y="557" fill="#126344" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">Metro · branch not chosen</text>
+<rect x="751" y="596" width="21" height="21" rx="5" fill="#FFFFFF" stroke="#73867A" stroke-width="2"/>
+<text x="787" y="608" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Product name · quantity 1</text>
+<text x="787" y="633" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Unpriced reminder · subtotal unavailable</text>
+<text x="787" y="660" fill="#126344" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Change store</text>
+<text x="748" y="710" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="14">Confirmed items stay grouped by chosen store.</text>
+<text x="740" y="812" fill="#13231C" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700">One consistent retailer identity</text>
+<text x="740" y="847" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="15">Home · comparison · list · map · share</text>
+<text x="740" y="883" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="15">Store choice changes only with confirmation.</text>
+<text x="740" y="919" fill="#52635A" font-family="Inter, Arial, sans-serif" font-size="15">Shopwise is a working name.</text>
+</svg>
